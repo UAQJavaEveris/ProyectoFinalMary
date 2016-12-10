@@ -1,0 +1,7 @@
+El proyecto es un webservices, y la estructura esta dividida en paquetes, una para el controlador, otra parte para el servlet, otra para la base de datos,
+la parte del usuario,dentro del bin de WEB-INF, se encuentran los JAR. Dentro del web content se encuentran la parte de html. Dentro de scr se encuentra un 
+archivo tipo properties con los datos para acceder a la base de datos.
+
+
+
+Gracias por todo, apredí demasiado :D un gusto conocerlo
